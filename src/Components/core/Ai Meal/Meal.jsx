@@ -95,7 +95,7 @@ const Meal = () => {
    '   onClick={handleGenrate}
     >
    <PiStarFourFill className='mr-2'/>
-   Genrate
+   Generate
    </button>
    </div>
 
